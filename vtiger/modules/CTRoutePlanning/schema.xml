@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_ctrouteplanning</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_ctrouteplanning` (
+  `ctrouteplanningid` int(19) NOT NULL,
+  `ctrouteplanning_no` varchar(24) DEFAULT NULL,
+  `ctroutename` varchar(255) DEFAULT NULL,
+  `ctroute_date` date DEFAULT NULL,
+  `ctroute_status` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`ctrouteplanningid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_ctrouteplanningcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_ctrouteplanningcf` (
+  `ctrouteplanningid` int(19) NOT NULL,
+  PRIMARY KEY (`ctrouteplanningid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_ctrouteplanrel</name>
+			<sql><![CDATA[CREATE TABLE IF NOT EXISTS `vtiger_ctrouteplanrel` (
+  `ctrouteplanningid` int(11) NOT NULL DEFAULT '0',
+  `ctroute_realtedto` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>
