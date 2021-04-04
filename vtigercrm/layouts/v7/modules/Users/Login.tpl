@@ -11,7 +11,7 @@
 {strip}
 	<style>
 		body {
-			background: url(layouts/v7/resources/Images/login-background.jpg);
+			background: url(layouts/v7/resources/Images/back.jpg);
 			background-position: center;
 			background-size: cover;
 			width: 100%;
