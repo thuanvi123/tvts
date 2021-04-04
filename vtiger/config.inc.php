@@ -79,12 +79,12 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL ='https://trinhthuan.live/';
+$site_URL ='https://trinhthuan.live/vtiger';
 
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/home/thuancrm/public_html/trinhthuan';
+$root_directory = '/home/thuancrm/public_html/trinhthuan.live';
 
 // cache direcory path
 $cache_dir = 'cache/';
