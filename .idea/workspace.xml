@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/resources/Images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="247" column="95" selection-start-line="247" selection-start-column="95" selection-end-line="247" selection-end-column="95" />
+            <state relative-caret-position="155">
+              <caret line="206" column="47" selection-start-line="206" selection-start-column="47" selection-end-line="206" selection-end-column="47" />
               <folding>
                 <element signature="e#563#3910#0#HTML" />
               </folding>
@@ -268,12 +266,12 @@
       <option name="presentableId" value="Default" />
       <updated>1617466317827</updated>
       <workItem from="1617466319385" duration="2116000" />
-      <workItem from="1617518605342" duration="23628000" />
+      <workItem from="1617518605342" duration="24200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25744000" />
+    <option name="totallyTimeSpent" value="26316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -489,10 +487,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/resources/Images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="247" column="95" selection-start-line="247" selection-start-column="95" selection-end-line="247" selection-end-column="95" />
+        <state relative-caret-position="155">
+          <caret line="206" column="47" selection-start-line="206" selection-start-column="47" selection-end-line="206" selection-end-column="47" />
           <folding>
             <element signature="e#563#3910#0#HTML" />
           </folding>
