@@ -201,10 +201,9 @@
 			}
 		}
 	</style>
-
 	<span class="app-nav"></span>
 	<div class="container-fluid loginPageContainer">
-		<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+		<div class="col-lg-4 col-lg-offset-4  col-md-12 col-sm-12 col-xs-12">
 			<div class="loginDiv widgetHeight">
 				<img class="img-responsive user-logo" src="layouts/v7/resources/Images/vtiger.png">
 				<div>
@@ -254,9 +253,9 @@
 			</div>
 		</div>
 
-		<div class="col-lg-1 hidden-xs hidden-sm hidden-md">
-			<div class="separatorDiv"></div>
-		</div>
+{*		<div class="col-lg-1 hidden-xs hidden-sm hidden-md">*}
+{*			<div class="separatorDiv"></div>*}
+{*		</div>*}
 
 {*		<div class="col-lg-5 hidden-xs hidden-sm hidden-md">*}
 {*			<div class="marketingDiv widgetHeight">*}
