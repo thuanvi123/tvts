@@ -84,7 +84,7 @@ $site_URL = 'https://trinhthuan.live/vtigercrm/';
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/home/thuancrm/public_html/vtigercrm/';
+$root_directory = '/home/thuancrm/public_html/trinhthuan/vtigercrm/';
 
 // cache direcory path
 $cache_dir = 'cache/';
