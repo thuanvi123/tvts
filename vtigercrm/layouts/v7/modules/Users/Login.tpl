@@ -205,7 +205,7 @@
 	<div class="container-fluid loginPageContainer">
 		<div class="col-lg-4 col-lg-offset-4  col-md-12 col-sm-12 col-xs-12">
 			<div class="loginDiv widgetHeight">
-				<img class="img-responsive user-logo" src="layouts/v7/resources/Images/vtiger.png">
+				<img class="img-responsive user-logo" src="layouts/v7/resources/Images/logo.png">
 				<div>
 					<span class="{if !$ERROR}hide{/if} failureMessage" id="validationMessage">{$MESSAGE}</span>
 					<span class="{if !$MAIL_STATUS}hide{/if} successMessage">{$MESSAGE}</span>
@@ -218,16 +218,16 @@
 						<div class="group">
 							<input id="username" type="text" name="username" placeholder="Username">
 							<span class="bar"></span>
-							<label>Username</label>
+							<label>Tài khoản </label>
 						</div>
 						<div class="group">
 							<input id="password" type="password" name="password" placeholder="Password">
 							<span class="bar"></span>
-							<label>Password</label>
+							<label>Mật khẩu</label>
 						</div>
 						<div class="group">
-							<button type="submit" class="button buttonBlue">Sign in</button><br>
-							<a class="forgotPasswordLink" style="color: #15c;">forgot password?</a>
+							<button type="submit" class="button buttonBlue">Đăng nhập </button><br>
+							<a class="forgotPasswordLink" style="color: #15c;">Quên mật khẩu?</a>
 						</div>
 					</form>
 				</div>
@@ -237,7 +237,7 @@
 						<div class="group">
 							<input id="fusername" type="text" name="username" placeholder="Username" >
 							<span class="bar"></span>
-							<label>Username</label>
+							<label>Tài khoản </label>
 						</div>
 						<div class="group">
 							<input id="email" type="email" name="emailId" placeholder="Email" >
@@ -245,8 +245,8 @@
 							<label>Email</label>
 						</div>
 						<div class="group">
-							<button type="submit" class="button buttonBlue forgot-submit-btn">Submit</button><br>
-							<span>Please enter details and submit<a class="forgotPasswordLink pull-right" style="color: #15c;">Back</a></span>
+							<button type="submit" class="button buttonBlue forgot-submit-btn">Gửi đi</button><br>
+							<span>Vui lòng nhập thông tin và gửi đi <a class="forgotPasswordLink pull-right" style="color: #15c;">Back</a></span>
 						</div>
 					</form>
 				</div>
