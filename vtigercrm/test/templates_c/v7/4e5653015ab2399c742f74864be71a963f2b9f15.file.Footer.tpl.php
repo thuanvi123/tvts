@@ -27,13 +27,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <?php if ($_valid && !is_callable('content_6069c87835cfc')) {function content_6069c87835cfc($_smarty_tpl) {?>
 
 <footer class="app-footer">
-	<p>
-		Powered by vtiger CRM - <?php echo $_smarty_tpl->tpl_vars['VTIGER_VERSION']->value;?>
-&nbsp;&nbsp;© 2004 - <?php echo date('Y');?>
-&nbsp;&nbsp;
-		<a href="//www.vtiger.com" target="_blank">Vtiger</a>&nbsp;|&nbsp;
-		<a href="https://www.vtiger.com/privacy-policy" target="_blank">Privacy Policy</a>
-	</p>
+<!--	<p>-->
+<!--		Powered by vtiger CRM - --><?php //echo $_smarty_tpl->tpl_vars['VTIGER_VERSION']->value;?>
+<!--&nbsp;&nbsp;© 2004 - --><?php //echo date('Y');?>
+<!--&nbsp;&nbsp;-->
+<!--		<a href="//www.vtiger.com" target="_blank">Vtiger</a>&nbsp;|&nbsp;-->
+<!--		<a href="https://www.vtiger.com/privacy-policy" target="_blank">Privacy Policy</a>-->
+<!--	</p>-->
 </footer>
 </div>
 <div id='overlayPage'>

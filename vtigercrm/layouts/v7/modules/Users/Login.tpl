@@ -14,7 +14,7 @@
 			background: url(layouts/v7/resources/Images/back.jpg);
 			background-position: center;
 			background-size: cover;
-			width: 90%;
+			width: 80%;
 			background-repeat: no-repeat;
 		}
 		hr {
