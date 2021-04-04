@@ -1,5 +1,0 @@
-deny from all
-<FilesMatch api.php>
-Order allow,deny
-Allow from all
-</FilesMatch>
