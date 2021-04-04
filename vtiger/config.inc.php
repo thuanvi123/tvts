@@ -1,7 +1,7 @@
 <?php
 /*********************************************************************************
  * The contents of this file are subject to the SugarCRM Public License Version 1.1.2
- * ("License"); You may not use this file except in compliance with the
+ * ("License"); You may not use this file except in compliance with the 
  * License. You may obtain a copy of the License at http://www.sugarcrm.com/SPL
  * Software distributed under the License is distributed on an  "AS IS"  basis,
  * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for
@@ -25,8 +25,8 @@ include('vtigerversion.php');
 // memory limit default value = 64M
 ini_set('memory_limit','512M');
 
-// show or hide calendar, world clock, calculator, chat and CKEditor
-// Do NOT remove the quotes if you set these to false!
+// show or hide calendar, world clock, calculator, chat and CKEditor 
+// Do NOT remove the quotes if you set these to false! 
 $CALENDAR_DISPLAY = 'true';
 $USE_RTE = 'true';
 
@@ -84,7 +84,7 @@ $site_URL ='https://trinhthuan.live/vtiger/';
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = 'home/thuancrm/public_html/trinhthuan/';
+$root_directory = '/home/thuancrm/public_html/trinhthuan/';
 
 // cache direcory path
 $cache_dir = 'cache/';
@@ -103,9 +103,9 @@ $upload_dir = 'cache/upload/';
 $upload_maxsize = 3145728;//3MB
 
 // flag to allow export functionality
-// 'all' to allow anyone to use exports
-// 'admin' to only allow admins to export
-// 'none' to block exports completely
+// 'all' to allow anyone to use exports 
+// 'admin' to only allow admins to export 
+// 'none' to block exports completely 
 // allow_exports default value = all
 $allow_exports = 'all';
 
@@ -172,7 +172,7 @@ if(isset($default_timezone) && function_exists('date_default_timezone_set')) {
 	@date_default_timezone_set($default_timezone);
 }
 
-//Set the default layout
+//Set the default layout 
 $default_layout = 'v7';
 
 include_once 'config.security.php';
