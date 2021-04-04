@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,43 +35,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3166">
-              <caret line="1624" selection-start-line="1624" selection-end-line="1624" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="e#332#336#1" expanded="true" />
-                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="e#19#23#1" expanded="true" />
-                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
-                <element signature="e#19#23#1" expanded="true" />
-                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
-                <element signature="e#240#244#1" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#0#6#0" expanded="true" />
-                <element signature="e#0#6#0" expanded="true" />
-                <element signature="e#0#6#0" expanded="true" />
-                <element signature="e#0#6#0" expanded="true" />
-                <element signature="e#0#6#0" expanded="true" />
-                <element signature="e#0#6#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="2623" selection-start-line="2623" selection-end-line="2623" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/resources/DashBoard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="1130" column="36" selection-start-line="1130" selection-start-column="36" selection-end-line="1130" selection-end-column="36" />
+            <state relative-caret-position="1366">
+              <caret line="1006" selection-start-line="1006" selection-end-line="1006" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,6 +82,7 @@
         <option value="$PROJECT_DIR$/vtiger/includes/http/Request.php" />
         <option value="$PROJECT_DIR$/vtiger/config.inc.php" />
         <option value="$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js" />
+        <option value="$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/resources/DashBoard.js" />
       </list>
     </option>
   </component>
@@ -181,7 +159,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vtigercrm7.3.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -208,12 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1617466317827</updated>
       <workItem from="1617466319385" duration="2116000" />
-      <workItem from="1617518605342" duration="11197000" />
+      <workItem from="1617518605342" duration="13190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13313000" />
+    <option name="totallyTimeSpent" value="15306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -239,6 +217,27 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" type="SLIDING" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -268,6 +267,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vtiger/libraries/bootstrap/js/eternicode-bootstrap-datepicker/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/JSResources.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -275,41 +277,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js">
+    <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/resources/DashBoard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3166">
-          <caret line="1624" selection-start-line="1624" selection-end-line="1624" />
+        <state relative-caret-position="1366">
+          <caret line="1006" selection-start-line="1006" selection-end-line="1006" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="e#332#336#1" expanded="true" />
-            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="e#19#23#1" expanded="true" />
-            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#19#23#1" expanded="true" />
-            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#240#244#1" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/resources/DashBoard.js">
+    <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="1130" column="36" selection-start-line="1130" selection-start-column="36" selection-end-line="1130" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="2623" selection-start-line="2623" selection-end-line="2623" />
         </state>
       </provider>
     </entry>
