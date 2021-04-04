@@ -46,9 +46,9 @@ $HELPDESK_SUPPORT_EMAIL_REPLY_ID = $HELPDESK_SUPPORT_EMAIL_ID;
 
 $dbconfig['db_server'] = 'localhost';
 $dbconfig['db_port'] = ':3306';
-$dbconfig['db_username'] = 'thuancrm_thuan12';
+$dbconfig['db_username'] = 'thuancrm_admin';
 $dbconfig['db_password'] = 'Thuan15091997';
-$dbconfig['db_name'] = 'thuancrm_vtig447';
+$dbconfig['db_name'] = 'thuancrm_crm';
 $dbconfig['db_type'] = 'mysqli';
 $dbconfig['db_status'] = 'true';
 
@@ -79,12 +79,12 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL ='https://trinhthuan.live/vtiger';
+$site_URL ='https://trinhthuan.live/';
 
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/home/thuancrm/public_html/trinhthuan.live';
+$root_directory = '/home/thuancrm/public_html/trinhthuan/vtiger/';
 
 // cache direcory path
 $cache_dir = 'cache/';
