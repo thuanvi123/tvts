@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_ctpushnotification</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_ctpushnotification` (
+  `ctpushnotificationid` int(11) DEFAULT NULL,
+  `pn_title` varchar(50) DEFAULT NULL,
+  `pn_related` varchar(100) DEFAULT NULL,
+  `pushnotificationstatus` varchar(255) DEFAULT NULL,
+  `devicekey` text,
+  `description` text,
+  `pushnotification_response` text,
+  `pushnotification_no` varchar(255) DEFAULT NULL,
+  `related_record_id` varchar(50) DEFAULT NULL,
+  `notification_url` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_ctpushnotificationcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_ctpushnotificationcf` (
+  `ctpushnotificationid` int(11) NOT NULL,
+  `tags` varchar(1) DEFAULT NULL,
+  PRIMARY KEY (`ctpushnotificationid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>ctmobile_userdevicetoken</name>
+			<sql><![CDATA[CREATE TABLE `ctmobile_userdevicetoken` (
+  `userid` int(11) NOT NULL,
+  `devicetoken` longtext NOT NULL,
+  `longitude` longtext NOT NULL,
+  `latitude` longtext NOT NULL,
+  UNIQUE KEY `userid` (`userid`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1]]></sql>
+		</table>
+		<table>
+			<name>vtiger_ctpushnotification_user_field</name>
+			<sql><![CDATA[CREATE TABLE IF NOT EXISTS `vtiger_ctpushnotification_user_field` (
+  `recordid` int(25) NOT NULL,
+  `userid` int(25) NOT NULL,
+  `starred` varchar(100) NOT NULL
+  ) ENGINE=InnoDB DEFAULT CHARSET=latin1]]></sql>
+		</table>
+		<table>
+			<name>vtiger_ctpushnotification</name>
+			<sql><![CDATA[ALTER TABLE  `vtiger_ctpushnotification` ADD  `notification_url` varchar(255) DEFAULT NULL AFTER  `related_record_id`]]></sql>
+		</table>
+	</tables>
+</schema>
