@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtiger/logs/fileMissing.log" beforeDir="false" afterPath="$PROJECT_DIR$/vtiger/logs/fileMissing.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,41 +27,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/JSResources.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="2623" selection-start-line="2623" selection-end-line="2623" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/resources/DashBoard.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1366">
-              <caret line="1006" selection-start-line="1006" selection-end-line="1006" />
+            <state relative-caret-position="329">
+              <caret line="787" column="26" selection-start-line="787" selection-end-line="788" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="e#332#336#1" expanded="true" />
+                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="e#19#23#1" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="e#19#23#1" expanded="true" />
+                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="e#240#244#1" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtiger/includes/http/Request.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="212" column="89" selection-start-line="212" selection-start-column="89" selection-end-line="212" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -71,6 +62,7 @@
     <findStrings>
       <find>layouts/v7/lib/todc/js</find>
       <find>jquery.daterangepicker.js</find>
+      <find>createDom</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,8 +73,8 @@
       <list>
         <option value="$PROJECT_DIR$/vtiger/includes/http/Request.php" />
         <option value="$PROJECT_DIR$/vtiger/config.inc.php" />
-        <option value="$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js" />
         <option value="$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/resources/DashBoard.js" />
+        <option value="$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js" />
       </list>
     </option>
   </component>
@@ -105,51 +97,6 @@
               <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
               <item name="tvts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tvts" type="462c0819:PsiDirectoryNode" />
-              <item name="vtiger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tvts" type="462c0819:PsiDirectoryNode" />
-              <item name="vtiger" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tvts" type="462c0819:PsiDirectoryNode" />
-              <item name="vtiger" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="v7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tvts" type="462c0819:PsiDirectoryNode" />
-              <item name="vtiger" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="v7" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tvts" type="462c0819:PsiDirectoryNode" />
-              <item name="vtiger" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="v7" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="Vtiger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tvts" type="462c0819:PsiDirectoryNode" />
-              <item name="vtiger" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="v7" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="Vtiger" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -159,7 +106,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vtigercrm7.3.0" />
+    <property name="last_opened_file_path" value="D:/vtigercrm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -186,18 +133,17 @@
       <option name="presentableId" value="Default" />
       <updated>1617466317827</updated>
       <workItem from="1617466319385" duration="2116000" />
-      <workItem from="1617518605342" duration="13190000" />
+      <workItem from="1617518605342" duration="17123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15306000" />
+    <option name="totallyTimeSpent" value="19239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,7 +156,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" type="SLIDING" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" type="SLIDING" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -253,20 +199,6 @@
     <entry file="file://$PROJECT_DIR$/vtiger/htaccess.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtiger/includes/http/Request.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="212" column="89" selection-start-line="212" selection-start-column="89" selection-end-line="212" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtiger/config.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtiger/libraries/bootstrap/js/eternicode-bootstrap-datepicker/.jshintrc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -277,20 +209,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vtiger/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/modules/Vtiger/resources/DashBoard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1366">
-          <caret line="1006" selection-start-line="1006" selection-end-line="1006" />
+        <state relative-caret-position="2220">
+          <caret line="568" column="15" selection-start-line="568" selection-start-column="15" selection-end-line="568" selection-end-column="15" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#a#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtiger/includes/http/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="212" column="89" selection-start-line="212" selection-start-column="89" selection-end-line="212" selection-end-column="89" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vtiger/layouts/v7/lib/jquery/daterangepicker/jquery.daterangepicker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="2623" selection-start-line="2623" selection-end-line="2623" />
+        <state relative-caret-position="329">
+          <caret line="787" column="26" selection-start-line="787" selection-end-line="788" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="e#332#336#1" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="e#19#23#1" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="e#19#23#1" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="e#240#244#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
