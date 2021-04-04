@@ -86,10 +86,11 @@
 			margin-left: 20px;
 		}
 		.user-logo {
-			height: 110px;
-			margin: 0 auto;
 			padding-top: 40px;
-			padding-bottom: 20px;
+			padding-bottom: 36px;
+			margin-left: 136px;
+			position: absolute;
+			height: 180px;
 		}
 		.blockLink {
 			border: 1px solid #303030;
@@ -205,13 +206,13 @@
 	<div class="container-fluid loginPageContainer">
 		<div class="col-lg-4 col-lg-offset-4  col-md-12 col-sm-12 col-xs-12">
 			<div style="position: relative;" class="loginDiv widgetHeight">
-				<img style="position: absolute; height: 200px" class="img-responsive user-logo" src="layouts/v7/resources/Images/logo.png">
+				<img  class="img-responsive user-logo" src="layouts/v7/resources/Images/logo.png">
 				<div>
 					<span class="{if !$ERROR}hide{/if} failureMessage" id="validationMessage">{$MESSAGE}</span>
 					<span class="{if !$MAIL_STATUS}hide{/if} successMessage">{$MESSAGE}</span>
 				</div>
 
-				<div style="position: absolute;margin-top: 10px" id="loginFormDiv">
+				<div style="position: absolute;margin-top: 135px;width: 100%" id="loginFormDiv">
 					<form class="form-horizontal" method="POST" action="index.php">
 						<input type="hidden" name="module" value="Users"/>
 						<input type="hidden" name="action" value="Login"/>
