@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Users.php" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Users.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,29 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="221" column="75" selection-start-line="221" selection-start-column="75" selection-end-line="221" selection-end-column="75" />
+            <state relative-caret-position="1720">
+              <caret line="221" column="64" selection-start-line="221" selection-start-column="48" selection-end-line="221" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Users.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4100">
-              <caret line="232" column="3" selection-start-line="232" selection-start-column="3" selection-end-line="232" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="436">
+              <caret line="253" column="2" lean-forward="true" selection-start-line="253" selection-start-column="2" selection-end-line="253" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -103,6 +92,7 @@
         <option value="$PROJECT_DIR$/vtigercrm/test/templates_c/v7/4e5653015ab2399c742f74864be71a963f2b9f15.file.Footer.tpl.php" />
         <option value="$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/login.php" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl" />
+        <option value="$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Users.php" />
       </list>
     </option>
   </component>
@@ -203,12 +193,12 @@
       <workItem from="1617466319385" duration="2116000" />
       <workItem from="1617518605342" duration="26967000" />
       <workItem from="1617586445386" duration="56000" />
-      <workItem from="1617873976862" duration="2137000" />
+      <workItem from="1617873976862" duration="2465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31276000" />
+    <option name="totallyTimeSpent" value="31604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -358,11 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/UsersSidebar.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-451" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/ListViewHeader.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-211" />
@@ -411,6 +396,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/UsersSidebar.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/ListViewFooter.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/DetailViewFullContents.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="221" column="64" selection-start-line="221" selection-start-column="48" selection-end-line="221" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -420,15 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4100">
-          <caret line="232" column="3" selection-start-line="232" selection-start-column="3" selection-end-line="232" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="221" column="75" selection-start-line="221" selection-start-column="75" selection-end-line="221" selection-end-column="75" />
+        <state relative-caret-position="436">
+          <caret line="253" column="2" lean-forward="true" selection-start-line="253" selection-start-column="2" selection-end-line="253" selection-end-column="2" />
         </state>
       </provider>
     </entry>

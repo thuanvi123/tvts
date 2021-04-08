@@ -219,7 +219,7 @@
 						<div class="group">
 							<input id="username" type="text" name="username" placeholder="">
 							<span class="bar"></span>
-							<label>{vtranslate('LBL_NEW_PASSWORD',$MODULE)} </label>
+							<label>{vtranslate('account',$MODULE)} </label>
 						</div>
 						<div class="group">
 							<input id="password" type="password" name="password" placeholder="">

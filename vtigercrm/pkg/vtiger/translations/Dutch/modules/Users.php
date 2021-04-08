@@ -249,6 +249,7 @@ $languageStrings = array(
   'LBL_USER_TO_BE_DELETED' => 'Gebruiker worden Verwijderd',
   'LBL_USERS_SETTINGS' => 'GEBRUIKERS INSTELLINGEN',
   'LBL_TEMPLATES' => 'Sjablonen',
+  'account'=>'Tài khoản'
 
 );
 $jsLanguageStrings = array(
