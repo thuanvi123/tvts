@@ -219,7 +219,7 @@
 						<div class="group">
 							<input id="username" type="text" name="username" placeholder="">
 							<span class="bar"></span>
-							<label>Tài khoản </label>
+							<label>{vtranslate('LBL_NEW_PASSWORD',$MODULE)} </label>
 						</div>
 						<div class="group">
 							<input id="password" type="password" name="password" placeholder="">
@@ -238,7 +238,7 @@
 						<div class="group">
 							<input id="fusername" type="text" name="username" placeholder="" >
 							<span class="bar"></span>
-							<label>Tài khoản </label>
+							<label>{vtranslate('LBL_NEW_PASSWORD',$MODULE)}</label>
 						</div>
 						<div class="group">
 							<input id="email" type="email" name="emailId" placeholder="" >
