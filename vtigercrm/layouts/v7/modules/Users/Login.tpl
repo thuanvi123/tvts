@@ -219,6 +219,7 @@
 						<div class="group">
 							<input id="username" type="text" name="username" placeholder="">
 							<span class="bar"></span>
+
 							<label>{vtranslate('ACCOUNT',$MODULE)} </label>
 						</div>
 						<div class="group">

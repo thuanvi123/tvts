@@ -269,7 +269,7 @@
                 <div class="row-fluid">
                     <div class="span6">
                         <div class="logo">
-                            <img src="test/logo/vtiger-crm-logo.png" alt="Vtiger Logo"/>
+                            <img src="test/logo/logo1.jpg" alt="KMA Logo"/>
                         </div>
                     </div>
                     <div class="span6"></div>
