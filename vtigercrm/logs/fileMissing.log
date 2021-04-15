@@ -5,3 +5,10 @@ C:\xampp\htdocs\tvts\vtigercrm\includes\Loader.php::checkFileAccessForInclusion:
 C:\xampp\htdocs\tvts\vtigercrm\includes\Loader.php::includeOnce::191<br>
 C:\xampp\htdocs\tvts\vtigercrm\includes\main\WebUI.php::vimport::15<br>
 C:\xampp\htdocs\tvts\vtigercrm\index.php::include_once::17<br>
+Traced on 2021-04-15 02:55:10
+FileAccessForInclusion - 
+C:\xampp\htdocs\tvts\vtigercrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\tvts\vtigercrm\includes\Loader.php::checkFileAccessForInclusion::65<br>
+C:\xampp\htdocs\tvts\vtigercrm\includes\Loader.php::includeOnce::191<br>
+C:\xampp\htdocs\tvts\vtigercrm\includes\main\WebUI.php::vimport::15<br>
+C:\xampp\htdocs\tvts\vtigercrm\index.php::include_once::7<br>
