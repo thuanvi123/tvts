@@ -10,7 +10,7 @@
 
 $languageStrings = Array(
 	'Home' => 'Home',
-	'More' => 'More',
+	'More' => 'Hiển thị thêm',
 	'Profile' => 'Profile',
 	'Change Password' => 'Change Password',
 	'Logout' => 'Logout',

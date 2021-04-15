@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vtigercrm/languages/en_us/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/languages/en_us/Home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Contacts/DetailViewHeaderTitle.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Contacts/DetailViewHeaderTitle.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/Sidebar.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/Sidebar.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Sidebar.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Sidebar.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Topbar.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Topbar.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/vlayout/modules/Users/SystemSetup.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/vlayout/modules/Users/SystemSetup.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/logs/fileMissing.log" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/logs/fileMissing.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/pkg/vtiger/modules/ExtensionStore/templates/Promotions.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/pkg/vtiger/modules/ExtensionStore/templates/Promotions.tpl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +24,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="20">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/CustomerPortal_Client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -68,6 +78,7 @@
       <find>LBL_LOGO_RECOMMENDED_MESSAGE</find>
       <find>validateImage</find>
       <find>$DASHBOARDHEADER_TITLE</find>
+      <find>app-menu</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\tvts\vtigercrm\test\logo</dir>
@@ -186,12 +197,12 @@
       <workItem from="1617873976862" duration="3693000" />
       <workItem from="1617932612284" duration="38000" />
       <workItem from="1618110214049" duration="12142000" />
-      <workItem from="1618454690510" duration="5056000" />
+      <workItem from="1618454690510" duration="7393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50068000" />
+    <option name="totallyTimeSpent" value="52405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -243,16 +254,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vtigercrm/modules/Home/models/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/modules/Home/js/HelpMeNow.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/dashboards/DashBoardTabContents.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="849">
@@ -525,8 +526,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/CustomerPortal_Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
