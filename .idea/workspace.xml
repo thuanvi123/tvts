@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,80 +16,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Groups.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Leads.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/MenuEditor.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/PBXManager.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Sidebar.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
-              <folding>
-                <element signature="e#1162#1190#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/test/templates_c/v7/a8f14efad58bd507fe773661e2cb99afe1009dd2.file.SidebarAppMenu.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="59" column="105" selection-start-line="59" selection-start-column="92" selection-end-line="59" selection-end-column="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Vtiger.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="64" column="55" lean-forward="true" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -120,6 +47,7 @@
       <find>Dashboa</find>
       <find>LBL_DASHBOARD</find>
       <find>menu-items-wrapper</find>
+      <find>company-logo-content</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\tvts\vtigercrm\test\logo</dir>
@@ -186,7 +114,31 @@
               <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
               <item name="tvts" type="462c0819:PsiDirectoryNode" />
               <item name="vtigercrm" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tvts" type="462c0819:PsiDirectoryNode" />
+              <item name="vtigercrm" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="vlayout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tvts" type="462c0819:PsiDirectoryNode" />
+              <item name="vtigercrm" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="vlayout" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tvts" type="462c0819:PsiDirectoryNode" />
+              <item name="vtigercrm" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="vlayout" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Users" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,18 +188,18 @@
       <workItem from="1617873976862" duration="3693000" />
       <workItem from="1617932612284" duration="38000" />
       <workItem from="1618110214049" duration="12142000" />
-      <workItem from="1618454690510" duration="9669000" />
+      <workItem from="1618454690510" duration="10609000" />
+      <workItem from="1618533581376" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54681000" />
+    <option name="totallyTimeSpent" value="56732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -293,30 +245,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/Header.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/modules/ExtensionStore/modules/ExtensionStore/views/Listings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/modules/ExtensionStore/modules/ExtensionStore/actions/Promotion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/modules/Vtiger/views/Header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="168" column="43" selection-start-line="168" selection-start-column="36" selection-end-line="168" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/modules/Contacts/imgs/2tbarPrivateChat.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -478,13 +406,6 @@
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Groups.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Vtiger.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -501,13 +422,6 @@
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Picklist.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Mobile/simple/Vtiger/SideMenu.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -519,9 +433,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/MenuEditor.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Leads.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Sidebar.tpl">
@@ -537,13 +448,6 @@
     <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/manifest.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Vtiger.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="64" column="55" lean-forward="true" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/test/templates_c/v7/a8f14efad58bd507fe773661e2cb99afe1009dd2.file.SidebarAppMenu.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -551,11 +455,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="1800">
           <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Groups.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Leads.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/modules/Accounts/actions/TransferOwnership.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/CompanyDetails.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="92" column="69" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Vtiger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/vlayout/modules/Users/Login.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/vlayout/modules/Users/Login.Default.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
       </provider>
     </entry>
   </component>

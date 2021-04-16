@@ -220,7 +220,7 @@
 							<input id="username" type="text" name="username" placeholder="">
 							<span class="bar"></span>
 
-							<label>{vtranslate('ACCOUNT',$MODULE)} </label>
+							<label>Tài khoản </label>
 						</div>
 						<div class="group">
 							<input id="password" type="password" name="password" placeholder="">
