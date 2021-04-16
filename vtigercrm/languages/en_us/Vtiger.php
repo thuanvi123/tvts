@@ -1417,7 +1417,7 @@ $jsLanguageStrings = array(
 
 	'OVERWRITE_EXISTING_MSG1' => 'Overwrite the existing address with the selected ',
 	'OVERWRITE_EXISTING_MSG2' => 'address details?',
-	'SINGLE_Accounts' => 'Organization',
+	'SINGLE_Accounts' => 'Danh sách',
 	'SINGLE_Contacts' => 'Contact',
 	'SINGLE_Project' => 'Project',
 	'SINGLE_ProjectMilestone' => 'Project Milestone',

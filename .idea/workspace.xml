@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl" afterDir="false" />
-    </list>
+    <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +14,20 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="1166" column="41" lean-forward="true" selection-start-line="1166" selection-start-column="41" selection-end-line="1166" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>test/logo/vtiger-crm-logo.png</find>
-      <find>$COMPANY_LOGO</find>
       <find>imagepath</find>
       <find>import Company</find>
       <find>$PROMOTIONS</find>
@@ -51,6 +56,8 @@
       <find>tabContainer</find>
       <find>class=&quot;dropdown dashBoardDropDown&quot;</find>
       <find>LBL_SETTINGS</find>
+      <find>Maske</find>
+      <find>MARKETING</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\tvts\vtigercrm\test\logo</dir>
@@ -82,7 +89,6 @@
         <option value="$PROJECT_DIR$/vtigercrm/languages/en_us/CustomerPortal_Client.php" />
         <option value="$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Groups.php" />
         <option value="$PROJECT_DIR$/vtigercrm/pkg/vtiger/translations/Dutch/modules/Vtiger.php" />
-        <option value="$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Users/Login.tpl" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/resources/CompanyDetails.js" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Documents/partials/Menubar.tpl" />
@@ -91,10 +97,11 @@
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Topbar.tpl" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/dashboards/DashBoardContents.tpl" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl" />
+        <option value="$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="9" />
     <option name="y" value="62" />
     <option name="width" value="1346" />
@@ -186,17 +193,18 @@
       <workItem from="1617932612284" duration="38000" />
       <workItem from="1618110214049" duration="12142000" />
       <workItem from="1618454690510" duration="10609000" />
-      <workItem from="1618533581376" duration="8338000" />
+      <workItem from="1618533581376" duration="8657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63959000" />
+    <option name="totallyTimeSpent" value="64278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -368,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Settings/Groups.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -537,6 +538,13 @@
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="1166" column="41" lean-forward="true" selection-start-line="1166" selection-start-column="41" selection-end-line="1166" selection-end-column="41" />
         </state>
       </provider>
     </entry>
