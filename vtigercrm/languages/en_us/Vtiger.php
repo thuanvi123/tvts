@@ -754,7 +754,7 @@ $languageStrings = array(
 	'Reminder Interval' => 'Popup Reminder Interval',
 
 	//Translations used in inventory modules for address
-	'SINGLE_Accounts' => 'Organization',
+	'SINGLE_Accounts' => 'Danh sách ',
 	'SINGLE_Contacts' => 'Contact',
 	'HelpDesk' => 'Tickets',
 	'LBL_TAG_CLOUD' => 'Tag Cloud',
