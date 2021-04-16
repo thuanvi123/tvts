@@ -16,7 +16,8 @@
 						<div class="logo-container col-sm-3 col-xs-9">
 							<div class="row">
 								<a href="index.php" class="company-logo">
-									<img src="{$COMPANY_LOGO->get('imagepath')}" alt="{$COMPANY_LOGO->get('alt')}"/>
+{*									<img src="{$COMPANY_LOGO->get('imagepath')}" alt="{$COMPANY_LOGO->get('alt')}"/>*}
+									<img src="../../../../../layouts/custom/images/logo.png">
 								</a>
 							</div>
 						</div>  

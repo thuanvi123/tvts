@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vtigercrm/layouts/custom/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/CompanyDetails.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/CompanyDetails.tpl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vtigercrm/pkg/vtiger/modules/ExtensionStore/templates/Promotions.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/pkg/vtiger/modules/ExtensionStore/templates/Promotions.tpl" afterDir="false" />
     </list>
@@ -22,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/CompanyDetails.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="227">
-              <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+              <caret line="77" column="83" selection-start-line="77" selection-start-column="83" selection-end-line="77" selection-end-column="83" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -183,6 +185,14 @@
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tvts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tvts" type="462c0819:PsiDirectoryNode" />
+              <item name="vtigercrm" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -199,6 +209,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tvts\vtigercrm\layouts\custom\images" />
       <recent name="C:\xampp\htdocs\tvts\vtigercrm\test\logo" />
       <recent name="C:\xampp\htdocs\tvts\vtigercrm\layouts\v7\resources\Images" />
     </key>
@@ -232,18 +243,17 @@
       <workItem from="1617932612284" duration="38000" />
       <workItem from="1618110214049" duration="12142000" />
       <workItem from="1618454690510" duration="10609000" />
-      <workItem from="1618533581376" duration="4931000" />
+      <workItem from="1618533581376" duration="5161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60552000" />
+    <option name="totallyTimeSpent" value="60782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -256,7 +266,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" type="SLIDING" weight="0.33060557" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" type="SLIDING" visible="true" weight="0.33060557" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,13 +299,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Home/Index.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/modules/Home/views/Index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -573,10 +576,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/custom/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/CompanyDetails.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
-          <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+          <caret line="77" column="83" selection-start-line="77" selection-start-column="83" selection-end-line="77" selection-end-column="83" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
