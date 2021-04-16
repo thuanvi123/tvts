@@ -32,24 +32,24 @@
                 {/foreach}
                 <div class="moreSettings pull-right">
                     <div class="dropdown dashBoardDropDown">
-                        <button class="btn btn-default reArrangeTabs dropdown-toggle" type="button" data-toggle="dropdown">{vtranslate('LBL_MORE',$MODULE)}
-                            &nbsp;&nbsp;<span class="caret"></span></button>
-                        <ul class="dropdown-menu dropdown-menu-right moreDashBoards">
-                            <li id="newDashBoardLi"{if count($DASHBOARD_TABS) eq $DASHBOARD_TABS_LIMIT}class="disabled"{/if}><a class = "addNewDashBoard" href="#">{vtranslate('LBL_ADD_NEW_DASHBOARD',$MODULE)}</a></li>
-                            <li><a class = "reArrangeTabs" href="#">{vtranslate('LBL_REARRANGE_DASHBOARD_TABS',$MODULE)}</a></li>
-                        </ul>
+{*                        <button class="btn btn-default reArrangeTabs dropdown-toggle" type="button" data-toggle="dropdown">{vtranslate('LBL_MORE',$MODULE)}*}
+{*                            &nbsp;&nbsp;<span class="caret"></span></button>*}
+{*                        <ul class="dropdown-menu dropdown-menu-right moreDashBoards">*}
+{*                            <li id="newDashBoardLi"{if count($DASHBOARD_TABS) eq $DASHBOARD_TABS_LIMIT}class="disabled"{/if}><a class = "addNewDashBoard" href="#">{vtranslate('LBL_ADD_NEW_DASHBOARD',$MODULE)}</a></li>*}
+{*                            <li><a class = "reArrangeTabs" href="#">{vtranslate('LBL_REARRANGE_DASHBOARD_TABS',$MODULE)}</a></li>*}
+{*                        </ul>*}
                     </div>
                     <button class="btn-success updateSequence pull-right hide">{vtranslate('LBL_SAVE_ORDER',$MODULE)}</button>
                 </div>
             </ul>
             <div class="tab-content">
-                {foreach key=index item=TAB_DATA from=$DASHBOARD_TABS}
-                    <div id="tab_{$TAB_DATA["id"]}" data-tabid="{$TAB_DATA["id"]}" data-tabname="{$TAB_DATA["tabname"]}" class="tab-pane fade {if $TAB_DATA["id"] eq $SELECTED_TAB}in active{/if}">
-                        {if $TAB_DATA["id"] eq $SELECTED_TAB}
-                            {include file="dashboards/DashBoardTabContents.tpl"|vtemplate_path:$MODULE TABID=$TABID}
-                        {/if}
-                    </div>
-                {/foreach}
+{*                {foreach key=index item=TAB_DATA from=$DASHBOARD_TABS}*}
+{*                    <div id="tab_{$TAB_DATA["id"]}" data-tabid="{$TAB_DATA["id"]}" data-tabname="{$TAB_DATA["tabname"]}" class="tab-pane fade {if $TAB_DATA["id"] eq $SELECTED_TAB}in active{/if}">*}
+{*                        {if $TAB_DATA["id"] eq $SELECTED_TAB}*}
+{*                            {include file="dashboards/DashBoardTabContents.tpl"|vtemplate_path:$MODULE TABID=$TABID}*}
+{*                        {/if}*}
+{*                    </div>*}
+{*                {/foreach}*}
             </div>
         </div>
 </div>
