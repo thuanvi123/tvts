@@ -177,7 +177,7 @@ $languageStrings = array(
 	'LBL_REPLY_ALL' => 'Reply all',
 
 	//Translation for all modules
-	'Accounts' => 'Organizations',
+	'Accounts' => 'Danh sách',
 	'Assets' => 'Assets',
 	'Calendar' => 'Calendar',
 	'Campaigns' => 'Campaigns',

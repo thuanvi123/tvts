@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="1166" column="41" lean-forward="true" selection-start-line="1166" selection-start-column="41" selection-end-line="1166" selection-end-column="41" />
+            <state relative-caret-position="237">
+              <caret line="759" column="13" selection-start-line="759" selection-start-column="13" selection-end-line="759" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="38" column="103" selection-start-line="38" selection-start-column="95" selection-end-line="38" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -28,8 +37,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>imagepath</find>
-      <find>import Company</find>
       <find>$PROMOTIONS</find>
       <find>COMPANY_LOGO</find>
       <find>Allowed size 150X40 pixels( .jpeg , .jpg , .png , .gif , .pjpeg , .x-png format )</find>
@@ -58,6 +65,8 @@
       <find>LBL_SETTINGS</find>
       <find>Maske</find>
       <find>MARKETING</find>
+      <find>module-name textOverflowEllipsis</find>
+      <find>Organization</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\tvts\vtigercrm\test\logo</dir>
@@ -193,12 +202,12 @@
       <workItem from="1617932612284" duration="38000" />
       <workItem from="1618110214049" duration="12142000" />
       <workItem from="1618454690510" duration="10609000" />
-      <workItem from="1618533581376" duration="8657000" />
+      <workItem from="1618533581376" duration="8935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64278000" />
+    <option name="totallyTimeSpent" value="64556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -514,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Topbar.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -543,8 +545,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/languages/en_us/Vtiger.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="1166" column="41" lean-forward="true" selection-start-line="1166" selection-start-column="41" selection-end-line="1166" selection-end-column="41" />
+        <state relative-caret-position="237">
+          <caret line="759" column="13" selection-start-line="759" selection-start-column="13" selection-end-line="759" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/SidebarAppMenu.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="38" column="103" selection-start-line="38" selection-start-column="95" selection-end-line="38" selection-end-column="103" />
         </state>
       </provider>
     </entry>
