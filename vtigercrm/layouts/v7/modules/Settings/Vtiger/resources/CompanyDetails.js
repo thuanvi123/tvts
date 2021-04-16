@@ -84,8 +84,8 @@ Vtiger.Class("Settings_Vtiger_CompanyDetails_Js",{},{
     registerCompanyLogoDimensionsValidation : function() {
         //150*40 logo with padding would be nice
         var allowedDimensions = {
-            'width' : 150,
-            'height' : 40
+            // 'width' : 150,
+            // 'height' : 40
         };
         var updateCompanyDetailsForm = jQuery('form#updateCompanyDetailsForm');
         var logoFile = updateCompanyDetailsForm.find('#logoFile');
