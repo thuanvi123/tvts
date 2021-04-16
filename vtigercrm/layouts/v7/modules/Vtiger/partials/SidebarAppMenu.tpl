@@ -64,15 +64,15 @@
 					</div>
 				</div>
 			{/if}
-			{assign var=DOCUMENTS_MODULE_MODEL value=Vtiger_Module_Model::getInstance('Documents')}
-			{if $USER_PRIVILEGES_MODEL->hasModulePermission($DOCUMENTS_MODULE_MODEL->getId())}
-				<div class="menu-item app-item app-item-misc" data-default-url="index.php?module=Documents&view=List">
-					<div class="menu-items-wrapper">
-						<span class="app-icon-list fa">{$DOCUMENTS_MODULE_MODEL->getModuleIcon()}</span>
-						<span class="app-name textOverflowEllipsis"> {vtranslate('Documents')}</span>
-					</div>
-				</div>
-			{/if}
+{*			{assign var=DOCUMENTS_MODULE_MODEL value=Vtiger_Module_Model::getInstance('Documents')}*}
+{*			{if $USER_PRIVILEGES_MODEL->hasModulePermission($DOCUMENTS_MODULE_MODEL->getId())}*}
+{*				<div class="menu-item app-item app-item-misc" data-default-url="index.php?module=Documents&view=List">*}
+{*					<div class="menu-items-wrapper">*}
+{*						<span class="app-icon-list fa">{$DOCUMENTS_MODULE_MODEL->getModuleIcon()}</span>*}
+{*						<span class="app-name textOverflowEllipsis"> {vtranslate('Documents')}</span>*}
+{*					</div>*}
+{*				</div>*}
+{*			{/if}*}
 			{if $USER_MODEL->isAdminUser()}
 				{if vtlib_isModuleActive('ExtensionStore')}
 					<div class="menu-item app-item app-item-misc" data-default-url="index.php?module=ExtensionStore&parent=Settings&view=ExtensionStore">
