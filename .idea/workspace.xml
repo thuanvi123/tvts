@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="" />
+    <list default="true" id="6b6ca817-f2c0-4212-859d-9734b3ec01c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/dashboards/DashBoardContents.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/dashboards/DashBoardContents.tpl" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +29,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Topbar.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="195">
+              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
               <folding>
                 <element signature="e#927#959#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vtigercrm/test/templates_c/v7/1323002c01bdfb627f75469b71624175f2f350b1.file.DashBoardTabContents.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="39" column="231" lean-forward="true" selection-start-line="39" selection-start-column="231" selection-end-line="39" selection-end-column="231" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/dashboards/DashBoardContents.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -84,7 +104,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>libraries/jquery/boxslider/jqueryBxslider.js</find>
       <find>window.open('index.php?module=ExtensionStore&amp;parent=Settings&amp;view=ExtensionStore&amp;mode=detail&amp;extensionId=168&amp;extensionName=Org Screen Tickets Widget')</find>
       <find>dashboardBanner</find>
       <find>test/logo/vtiger-crm-logo.png</find>
@@ -114,6 +133,7 @@
       <find>banner</find>
       <find>company-logo</find>
       <find>logo-container col-sm-3 col-xs-9</find>
+      <find>tabContainer</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\tvts\vtigercrm\test\logo</dir>
@@ -153,6 +173,7 @@
         <option value="$PROJECT_DIR$/vtigercrm/pkg/vtiger/modules/ExtensionStore/templates/Promotions.tpl" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/CompanyDetails.tpl" />
         <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Topbar.tpl" />
+        <option value="$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/dashboards/DashBoardContents.tpl" />
       </list>
     </option>
   </component>
@@ -250,12 +271,12 @@
       <workItem from="1617932612284" duration="38000" />
       <workItem from="1618110214049" duration="12142000" />
       <workItem from="1618454690510" duration="10609000" />
-      <workItem from="1618533581376" duration="5520000" />
+      <workItem from="1618533581376" duration="5766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61141000" />
+    <option name="totallyTimeSpent" value="61387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -306,16 +327,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Settings/Vtiger/Sidebar.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vtigercrm/includes/main/WebUI.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/modules/Users/Users.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2445">
@@ -588,11 +599,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/partials/Topbar.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="195">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
           <folding>
             <element signature="e#927#959#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/test/templates_c/v7/1323002c01bdfb627f75469b71624175f2f350b1.file.DashBoardTabContents.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="39" column="231" lean-forward="true" selection-start-line="39" selection-start-column="231" selection-end-line="39" selection-end-column="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vtigercrm/layouts/v7/modules/Vtiger/dashboards/DashBoardContents.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
         </state>
       </provider>
     </entry>
