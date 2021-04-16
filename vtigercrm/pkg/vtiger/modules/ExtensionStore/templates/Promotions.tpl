@@ -13,7 +13,8 @@
                         {else}
                             {assign var=LOCATION_URL value={$SUMMARY}}
                         {/if}
-                        <a onclick="window.open('{$LOCATION_URL}')"><img src="{if $PROMOTION->get('bannerURL')}{$PROMOTION->get('bannerURL')}{/if}" title="{$PROMOTION->get('label')}" /></a>
+                        <img src="">
+{*                        <a onclick="window.open('{$LOCATION_URL}')"><img src="{if $PROMOTION->get('bannerURL')}{$PROMOTION->get('bannerURL')}{/if}" title="{$PROMOTION->get('label')}" /></a>*}
                     </li>
                 {/foreach}
             </ul>
